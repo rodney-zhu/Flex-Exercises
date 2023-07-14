@@ -1,13 +1,10 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-<<<<<<< HEAD
   display: flex;
   justify-content: space-between;
   align-items: center;
  
-=======
->>>>>>> fb887275a82077970df2089a9152733abd1cca9b
 }
 
 .logo {
@@ -16,23 +13,17 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-<<<<<<< HEAD
   margin: 10px;
   
-=======
->>>>>>> fb887275a82077970df2089a9152733abd1cca9b
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-<<<<<<< HEAD
   display: flex;
   margin: 10px;
   padding: 0;
   gap: 10px;
-=======
->>>>>>> fb887275a82077970df2089a9152733abd1cca9b
 }
 
 a {
@@ -41,8 +32,4 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> fb887275a82077970df2089a9152733abd1cca9b
